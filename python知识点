@@ -1,0 +1,14 @@
+集合用add
+ports.add(i)
+ports.remove(a)
+str.insert(cursor, c)
+str.pop(cursor - 1)
+"".join(l_str)
+tmp = cmd.split(' ')
+res = [i.replace(" ", "") for i in ids]
+res = [i for i in r_list if re.match(r'^[A-Za-z][\d]+$', i)]
+res = [i for i in r_list if len(i) < 5]
+res = [i[0].lower() + i[1].zfill(8) for i in r_list]
+res = sorted(set(res))
+if set(num).issuperset(set(str(i))):
+min([max(np.array(matrix)[:, x]) for x in range()])
